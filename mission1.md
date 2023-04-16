@@ -25,3 +25,37 @@ _L'Organisation_ à pris conaissance de vos compétences et vous propose de les 
 [image de la bâtisse]
 
 <!-- ![Tux, the Linux mascot](/assets/images/tux.png) -->
+
+La batisse est situé plus haut dans les collines, à l'écart de la ville, une vieille maison du 17eme siècle.
+Nous n'avons pas plus d'information sur les lieux.
+
+Comme il vous l'avait indiqué le message se supprime apres l'avoir lu.
+
+Arivée en journée.
+Découverte des lieux
+
+3 Options:
+Maison: lieu de l'action
+Station essence (informations, briquet) une vendeur peu sympathique avec les étrnagers mais il possè de l'équipement
+Ville:
+personne ne donne d'information utiles les gens ne veulent par parler de cet endroit maudit.
+
+Jardin
+Premier étage
+Deuxième étage
+
+Bonus: sous sol
+Crypte
+
+arrivée sur les lieux
+
+matériel:
+dans le van: (lampe torche)
+
+station essence: (briquet)
+
+Sur le bureau où la cheminée, etc..
+statuette permettant d'ouvrir la crypte ( clef étoile) sur le dessous
+
+Crypte:
+Pentagram, allumer les bougies pour effectuer le rituel, invocation du fantôme -> combat

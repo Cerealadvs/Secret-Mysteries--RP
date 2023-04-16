@@ -9,7 +9,7 @@ la grotte
 la maison des chats
 la mine
 les dieux anciens
-le cosmonote
+le spationaute
 
 verte prairie
 la foret torturée
