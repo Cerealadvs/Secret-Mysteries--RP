@@ -1,6 +1,6 @@
 Map imagges
 
-/enigmes
+Énigmes
 
 maison fantôme
 vampires
