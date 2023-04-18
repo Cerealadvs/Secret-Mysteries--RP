@@ -27,5 +27,6 @@ les deux eaux
 le metro
 les champs de soie
 oasis
+bateau, brume, perdu en mer, monstres marins, folie, démence
 
 différents biomes ??
