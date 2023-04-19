@@ -126,3 +126,8 @@ table essai:
 `Roll the dice !`
 
 ca donne quoi ?
+
+idées bonnus la mer,
+
+créer un lien entre les histoires, trame de fond.
+livres astronomiques ?
