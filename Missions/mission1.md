@@ -1,12 +1,18 @@
 # Première mission: Faites vos preuves.
 
+> Tiling! Vous recevez un message!
+
 > Nous avons reçu des informations concernant des disparitions étranges des ces derniers temps.
-> Il s'agrirait d'une maison hantée où des évenements mystérieux s'y passerait la nuit.
+
+<!-- > Il s'agrirait d'une maison hantée où des évenements mystérieux s'y passerait la nuit. -->
+
+> Il s'agrirait de personnes portées disparues dans un petit village. On n'as jamais retrouvé les corps et c'est pas la première fois dans les environs.
 
 > Plusieurs disparitions y ont été signalé ces dernières semaines.
 
 > Pour la plupart des jeunes qui s'amusent à chasser les fantômes.
 > Armées de caméras de de divers objets ils traquent les signaux électromagnétique et s'offre quelques frissons.
+> ller menez l'enquète voir ce qui se trame dans le coin.
 
 > Comme il vous l'avait indiqué le message se supprime apres l'avoir lu.
 
@@ -15,22 +21,21 @@
 > Vous arrivez en journée ce qui vous permet de découvrir la zone et de recueillir des informations.
 > Que faites vous ?
 
+décrire la zone environnante.
+
 ---
 
 ![Village](/assets/images/village.jpg)
 
 **le village:**
 
-> Un petit village coincé dans les montagnes, seule une route le traverse, rien de très particulier.
+> Un petit village coincé dans les montagnes, seule une route principale le traverse, rien de très particulier.
 
-`Roll the dice !`
+`Que faites vous ?`
 
 Les gens sont peux agréable avec vous et vous évite, vous continuez vos recherches par vos propres moyens.
 
 `un personnage vous renseigne un peu plus sur les différents lieux d'inérêts:`
-
-> Oh, vous avez bien la station qui pourrais les avoir des infos, c'est le seul endroit utile ici.
-> Les gens passent plus de temps à l'église mais ca n'y changera rien de prier le bon dieu! Moi je vous le dis , y-a un tuc pas net qui rôde par là-bas.
 
 infos:
 
@@ -39,6 +44,12 @@ infos:
 
 > La batisse est situé plus haut dans les collines, à l'écart de la ville, une vieille maison du 17eme siècle.
 > Nous n'avons pas plus d'information sur les lieux.
+
+> Oh, vous avez bien la station qui pourrais les avoir des infos, c'est le seul endroit utile ici.
+
+Réussite:
+
+> Les gens passent plus de temps à l'église ces derniers temps, ca n'y changera rien de prier le bon dieu! Moi je vous le dis , y-a un tuc pas net qui rôde par là-bas.
 
 ---
 
@@ -56,7 +67,7 @@ Ils ont acheté des provisions, et un briquet.
 
 **Maison:** lieu de l'action
 
-> Au dernières nouvelle un groupe s'y est rendu ce weekend mais auccun d'entre eux n'est revenu, le van est toujours devant la bâtisse.
+> Au dernières nouvelle un groupe s'y est rendu ce weekend mais auccun d'entre eux n'est revenu, le van est toujours devant.
 
 ---
 
@@ -83,7 +94,7 @@ Il faut retourner à la station pour pouvoir le charger
 
 > En effectuant vos recherches vous tombez sur un appareil, il est déchargé.
 
-`Roll the dice !`
+`Que faites vous ?`
 
 Photo d'un pentagram dessinées au sol avec des bougies.
 ![Photo pentagram](/assets/images/photopentagram.jpg)
