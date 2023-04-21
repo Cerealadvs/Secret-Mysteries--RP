@@ -107,7 +107,7 @@ Photo de la cave prise par les chasseurs de fantomes:
 Photo de la bibliothèque à l'étage:
 ![photo Bbliothèque](/assets/images/bibliotheque.jpg)
 
-Parmis les livres vous en trouvez un avec moins de poussière, a l'intérieur des annotations des sigles bizares `air, terre, feu, eau, esprit.`
+Parmis les livres vous en trouvez un avec moins de poussière, a l'intérieur des annotations des signes étranges `air, terre, feu, eau, esprit.`
 
 une annotation y est inscrite:
 
