@@ -107,13 +107,19 @@ Photo de la cave prise par les chasseurs de fantomes:
 Photo de la bibliothèque à l'étage:
 ![photo Bbliothèque](/assets/images/bibliotheque.jpg)
 
-Parmis les livres vous en trouvez un avec moins de poussière, a l'intérieur des annotations des signes étranges `air, terre, feu, eau, esprit.`
+Parmis les livres vous en trouvez un avec moins de poussière, à l'intérieur des annotations et des signes étranges `air, terre, feu, eau, esprit.`
 
 une annotation y est inscrite:
 
 > la rivière coule à l'est, la chaleur à mes pieds posé sur le sol mon esprit s'élève.
 
 - Les vieux livres vos donnent des indices pour invoquer le fantôme.
+
+rien ne se passe, a croire que l'on vous à fait miroiter d'étrangges phénomènes mais il est évident que ce n'est qu'une tromprie, vous trouvez un masque et des empreintes de chaussures toutes fraiches de l'autre coté de la batisse.
+
+elles mènene en direction de la foret.
+
+Prochain chapitre
 
 matériel:
 dans le van: (lampe torche)
