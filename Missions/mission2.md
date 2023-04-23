@@ -1,8 +1,3 @@
-## Le culte de la flame bleue:
+## L'astrolab de galilée
 
-Suite à vos récents exploits, l'organisation vous envoie sur une nouvelle enquète,
-
-Situé sur une ile Solomon Island.
-De nombreuses choses paraissent troubler le calme de cette petite ville portuaire isolée.
-
-Entre apparitions de zombies et Cultistes voûant aux flames bleues toutes leur dévotion
+La suite de votre enquète vous mène vers le musée d'astrologie de la région, une zone de montagne particullièreent dégagé pour observer les e'toiles
