@@ -46,3 +46,5 @@ mort réanimé.
 
 iron maiden torture box
 ![iron maiden](/assets/images2/the-25-most-unimaginable-medieval-torture-devices-329663.jpg)
+
+Suite de la mission : enquète vers les auteurs des enlèvements Ou autre idée ?
