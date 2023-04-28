@@ -21,9 +21,11 @@ l'ancien propriétaire est connu comme un vieux excentrique plongé dans ses liv
 
 ![armillaire](/assets/images2/globe-terrestre-armillaire-en-laiton-antique-avec.webp)
 
-énigme avec les signes astrologiques
+énigme avec les signes astrologiques, utilisation pour déchifrer un code
 
 ![astrolabe](/assets/images2/astrolabe-planispherique.png)
+
+énigme avec les signes astrologiques ? lien avec le livre disparu ?
 
 l'office tu tourisme local peut vous donner des informations .
 Jardins publics,
