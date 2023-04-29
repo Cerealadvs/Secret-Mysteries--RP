@@ -27,6 +27,8 @@ l'ancien propriétaire est connu comme un vieux excentrique plongé dans ses liv
 
 énigme avec les signes astrologiques ? lien avec le livre disparu ?
 
+Ophiucus : serpentaire 13 eme signe astronomique.
+
 l'office tu tourisme local peut vous donner des informations .
 Jardins publics,
 musées
