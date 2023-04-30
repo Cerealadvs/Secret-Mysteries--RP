@@ -54,3 +54,16 @@ iron maiden torture box
 ![iron maiden](/assets/images2/the-25-most-unimaginable-medieval-torture-devices-329663.jpg)
 
 Suite de la mission : enquète vers les auteurs des enlèvements Ou autre idée ?
+
+Mois d'invertigation,
+Plus d'énigmes,
+Plus de fight,
+Plus d'horreur.
+
+Descendre dans la crypte plus de zombies. Le scientifique avais trouvé des informations sur le rituel et voulais utiliser ses recherches pour la météo, mais les autres membres on vu une meilleure usage, plus de pouvoir, après avoir pris le carnet ils sont commencés à faire le rituel sur aux mèmes mais ot été corompus. pour pouvoir vivre, il leut fallair du sang jeune, neuf plus frais.
+
+il se retrouvent coincée dans l'éboulement dans les catacombes.
+
+plan des catacomber avec sale de torture.
+piece avec la table
+partie ''eboulée avec des pièces en enfilade après l'éboulement.
