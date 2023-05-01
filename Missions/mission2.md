@@ -55,15 +55,101 @@ iron maiden torture box
 
 Suite de la mission : enquète vers les auteurs des enlèvements Ou autre idée ?
 
+---
+
 Mois d'invertigation,
 Plus d'énigmes,
 Plus de fight,
 Plus d'horreur.
 
-Descendre dans la crypte plus de zombies. Le scientifique avais trouvé des informations sur le rituel et voulais utiliser ses recherches pour la météo, mais les autres membres on vu une meilleure usage, plus de pouvoir, après avoir pris le carnet ils sont commencés à faire le rituel sur aux mèmes mais ot été corompus. pour pouvoir vivre, il leut fallair du sang jeune, neuf plus frais.
+---
+
+Descendre dans la crypte plus de zombies.
+
+Le scientifique avait trouvé des informations sur le rituel et voulais utiliser ses recherches pour aider les gens. Mais les autres membres en avait vu une meilleure utilisation, plus de pouvoir, après avoir pris son le carnet ils sont commencés à effectuer le rituel sur des gens aux mèmes mais ont été corompus. pour pouvoir vivre, il leut fallair du sang jeune, neuf plus frais.
 
 il se retrouvent coincée dans l'éboulement dans les catacombes.
 
-plan des catacomber avec sale de torture.
+plan des catacombes avec sale de torture.
 piece avec la table
 partie ''eboulée avec des pièces en enfilade après l'éboulement.
+
+---
+
+Suite à vos récentes découvertes et durant la prochaine nuit, vous décidez de retourner dans le cimetière , près de la crypte pour essayer de conprendre ce qui vous est arrivé la dernière fois...
+
+?[crypte](/assets/images3/ancienne-crypte-en-briques-rouges-dans-un-ancien-cimeti%C3%A8re-grave-de-tombe-cristal-brique-rouge-164794571.jpg)
+
+Une halucination après avoir passé trop de temps dans ces tunnels ? Non peu probable, vous avez bien vu cette créature vouloir vous attraper.
+Vous en avex mème gardé un petit souvenir, quelques coups et des blessures oui, mais sourtout la petite pière qu'il portait et semblais le garder en vie.
+
+?[pierre](/assets/images3/pierre%20de%20sang.jpg)
+
+La nuit arrive vous continuez votre enquète.
+
+Plan des tunnels:
+A dessiner.
+
+entrée classique.
+
+Trou réalisé par le zombie.
+?[zombie](/assets/images3/zombie_PNG51.png)
+
+?[tunnel](/assets/images3/tunnel-briques-1280-3774797761.jpg)
+
+Vous vous engoufrez pour la deuxième fois à l'intérieur, en descendant vous remarquez le mur de briques derrière la table dans la salle du millieu. Il semble ètre plus récent que le reste de la crypte.
+
+?[salle des zombies](/assets/images3/rustique-souterrain-salle-banque-de-photographie_csp15366402.webp)
+
+Combat final.
+
+Sur une dépouille de zombie, vous retrouvez un petit carnet d'annotations:
+
+16 aout:
+
+> Nous touchons au but. nous alons bientot pouvoir tester le frament.
+> Il se mèle trop de nos affaires, je vais devoir l'éliminer.
+> À croire qu'il réussiras à changer la météo, quel naïf!
+
+12 septembre:
+
+> Les précédents sont trop faibles, il lui faut des corps plus jeune, ceux la tombent trop vites.
+
+17 octobre:
+
+> Ils sont l'air de résister mais au bout de quelques jours ils s'effondrent.
+
+22 octobre:
+
+> Le problème viennent des dates? le vieux parlait d'attendre le serpent, mais je ne comprends pas ce qu'il entends par là.
+
+26 octobre:
+
+> l'etagère bouge de plus en plus, je vais devoir le réparer
+
+29 novembre:
+
+> Ça y est ! Ça marche ! Il ont l'air si terrfiant et puissant je ne sait pas comment il fait pour les controller.
+> Il reste travailler tard, il passent des heures ici. il va y arriver j'en suis sur!
+
+2 décembre:
+
+> A chaque fois que je m'approche ils essayent de me saisir. J'ai peur que les choses tournent mal, ils sont la sans vie agonisant dans le noir, devenant de plus en plus aggrefssif.
+
+5 décembre:
+
+> Ils ont déja eu le maitre, je doit ètre plus prudent que lui.
+
+6 décembre:
+
+> Je ne sait pas quoi faire d'eux, je doit les éliminer mais rien ne marche.
+> je vais condaner l'accès à cette partie.
+
+7 décembre:
+
+> Cette partie est condamnée.
+> Plus qu' faire s'ébouler sur elle mème cette salle et disparaissons du pays je ne veux plus jamais voir ces horreurs sans vie.
+
+Sous les décombres, sans vie vous distinguez une semelle qui vous est bien familière ces derniers temps.
+
+Un zombie avec une robe, possédant un grand talismant, une bague, et une couronne.
