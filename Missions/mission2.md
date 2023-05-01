@@ -152,4 +152,6 @@ Sur une dépouille de zombie, vous retrouvez un petit carnet d'annotations:
 
 Sous les décombres, sans vie vous distinguez une semelle qui vous est bien familière ces derniers temps.
 
-Fin.
+Après vous ètre remis de vos émotions vous sortez et
+
+Vous livrez votre rapport et prenez du repos bien mérité.
