@@ -88,7 +88,6 @@ Vous en avex mème gardé un petit souvenir, quelques coups et des blessures oui
 La nuit arrive vous continuez votre enquète.
 
 Plan des tunnels:
-A dessiner.
 
 entrée classique.
 
@@ -97,11 +96,12 @@ Trou réalisé par le zombie.
 
 ?[tunnel](/assets/images3/tunnel-briques-1280-3774797761.jpg)
 
-Vous vous engoufrez pour la deuxième fois à l'intérieur, en descendant vous remarquez le mur de briques derrière la table dans la salle du millieu. Il semble ètre plus récent que le reste de la crypte.
+Vous vous engoufrez pour la deuxième fois à l'intérieur, en descendant vous remarquez le mur de briques derrière la table dans la salle du millieu. Il semble ètre plus récent que le reste de la crypte. vous n'y avez pas porté attention la première fois.
 
 ?[salle des zombies](/assets/images3/rustique-souterrain-salle-banque-de-photographie_csp15366402.webp)
 
 Combat final.
+Un zombie avec une robe, possédant un grand talismant, une bague, et une couronne + d'autres zombies.
 
 Sur une dépouille de zombie, vous retrouvez un petit carnet d'annotations:
 
@@ -125,11 +125,11 @@ Sur une dépouille de zombie, vous retrouvez un petit carnet d'annotations:
 
 26 octobre:
 
-> l'etagère bouge de plus en plus, je vais devoir le réparer
+> l'etagère bouge de plus en plus, je vais devoir la réparer
 
 29 novembre:
 
-> Ça y est ! Ça marche ! Il ont l'air si terrfiant et puissant je ne sait pas comment il fait pour les controller.
+> Ça y est ! Ça marche ! Il ont l'air si terrfiant et puissant je ne sait pas comment il fait pour les controller mais ca ne dure que quelques minutes.
 > Il reste travailler tard, il passent des heures ici. il va y arriver j'en suis sur!
 
 2 décembre:
@@ -152,4 +152,4 @@ Sur une dépouille de zombie, vous retrouvez un petit carnet d'annotations:
 
 Sous les décombres, sans vie vous distinguez une semelle qui vous est bien familière ces derniers temps.
 
-Un zombie avec une robe, possédant un grand talismant, une bague, et une couronne.
+Fin.
