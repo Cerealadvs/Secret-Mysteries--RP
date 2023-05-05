@@ -1,3 +1,5 @@
 Secret Mysteries RP
 
-Jeu de rôle basée sur les légendes urbaines et autre mystères.
+Ce repo me permet de suivre mes commits privé, pour apparaitre sur le suivi github.
+
+Base de jeu de rôle inspiré des les légendes et autre mystères. Me sers de stockage poour mes idées de futures campagnes.
