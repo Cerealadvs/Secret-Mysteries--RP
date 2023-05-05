@@ -21,3 +21,11 @@ se reporter au ficher personnages de critical.
 
 > Suite à votre réponse, l'organisation vous envoie un message.
 > Une première occasion de faire vos preuves et de mener l'enquète !
+
+raconter une histoire:
+
+    Une situation initiale.
+    Un élément perturbateur.
+    Un déroulement, avec une quête ou un objectif et une suite de péripéties.
+    Le dénouement.
+    La situation finale.
