@@ -14,7 +14,7 @@ manoir hantée, maison de l'horreur, poupées ?
 Marianne, Evans, merci pour votre temps, grace à vous, nous avons clos le chapitre des disparitions inexpliquées dans cette région.
 Malheureusement notre expérience nous à apris que cela ne dure qu'un temps. Les forces du mal, si on résume ce genres d'histoires à ça, reviennent toujours plus vites que prévu.
 L'important est d'endiguer ce genre d'évènement avent que ceux ci prennent des proportions ingérables.
-C'est donc dans ce but que nous vous proposons de participer, activement, au recherches et de résoudres ces mystères.
+C'est donc dans ce but que nous vous proposons une mission plus importante, activement, à ces nouvelles recherches et de résoudres ces mystères.
 
 Un de nos nouveau binome d'agents nous à transmis une photographie,
 
