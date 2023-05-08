@@ -32,4 +32,4 @@ Des forces obscures ont l'air de refaire surface.
 controle mental ?
 folie ?
 
-jouer dans le noir avec lampe torche ?
+jouer dans le noir avec lampe torche ? monter un terrain avec son téléphonne portable et découvrir l'origine des glyphes, comprendre une phrase, un mot pour y faire un énigme et relier les différents éléments.
