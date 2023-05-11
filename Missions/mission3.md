@@ -38,3 +38,7 @@ controle mental ?
 folie ?
 
 jouer dans le noir avec lampe torche ? monter un terrain avec son téléphonne portable et découvrir l'origine des glyphes, comprendre une phrase, un mot pour y faire un énigme et relier les différents éléments.
+
+Ombres posessions du corps ?
+
+sombrer dans la folie ?
